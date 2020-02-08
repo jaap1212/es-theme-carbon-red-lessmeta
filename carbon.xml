@@ -64,7 +64,7 @@ Reference Colors:
 
 		<image name="md_image">
 			<pos>0.75 0.55</pos>
-			<maxSize>0.6 0.6</maxSize>
+			<maxSize>0.5 0.5</maxSize>
 			<origin>0.5 0.5</origin>
 		</image>
 
@@ -134,14 +134,14 @@ Reference Colors:
      </text>
 
 		<textlist name="gamelist">
-			<selectorColor>1c1c1c</selectorColor>
+		
 			<primaryColor>969696</primaryColor>
 			<secondaryColor>7a6161</secondaryColor>
 			<fontPath>./art/Cabin-Bold.ttf</fontPath>
 			<fontSize>0.03</fontSize>
 			<forceUppercase>1</forceUppercase>
-			<pos>0.039 0.167</pos>
-			<size>0.442 0.741</size>
+			<pos>0.010 0.167</pos>
+			<size>0.38 0.5</size>
 			<alignment>left</alignment>
 			<horizontalMargin>0.01</horizontalMargin>
 			<scrollSound>./art/scroll.wav</scrollSound>

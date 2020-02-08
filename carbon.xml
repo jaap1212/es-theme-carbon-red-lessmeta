@@ -141,7 +141,7 @@ Reference Colors:
 			<fontSize>0.03</fontSize>
 			<forceUppercase>1</forceUppercase>
 			<pos>0.010 0.167</pos>
-			<size>0.38 0.5</size>
+			<size>0.38 0.75</size>
 			<alignment>left</alignment>
 			<horizontalMargin>0.01</horizontalMargin>
 			<scrollSound>./art/scroll.wav</scrollSound>

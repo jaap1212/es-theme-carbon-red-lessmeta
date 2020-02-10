@@ -57,6 +57,14 @@ Reference Colors:
 			<horizontalMargin>0.01</horizontalMargin>
 			<scrollSound>./art/scroll.wav</scrollSound>
 		</textlist>
+		
+		<image name="background" extra="true">
+			<tile>false</tile>
+			<size>1 1</size>
+			<pos>0 0</pos>
+			<origin>0 0</origin>
+			<path>./art/carbon_fiber2.png</path>
+		</image>
 
 	</view>
 
